@@ -1,4 +1,4 @@
 # BadgeChallenges
 Getting my Badges for my Profile.
 
-Test for my Second Badge.
+Removed the line for the Shark 🦈
