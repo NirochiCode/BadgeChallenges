@@ -1,4 +1,4 @@
 # BadgeChallenges
 Getting my Badges for my Profile.
 
-Removed the line for the Shark 🦈
+Removed the line for the Yolo
